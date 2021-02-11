@@ -36,6 +36,12 @@ let lista="Lista zakupów: \n"
 fruits = fruits.replace("+++" , "")
 fruits=fruits.trim()
 console.log("-".repeat(20))
-console.log( lista + " - " + fruits.replace("," , "\n -").replace("," , "\n -").replace("," , "\n -").replace("," , "\n -"))
+
+console.log( lista + " - " + fruits.replace("," , "\n -")
+    .replace("," , "\n -")
+    .replace("," , "\n -")
+    .replace("," , "\n -")
+    )
+
 console.log("-".repeat(20))
 
