@@ -1,3 +1,14 @@
 
-let price="15,32347"
-console.log(price.toFixed(2)) , price.replace("," , ".")
+let myVar = 8;
+
+if (myVar === 10) {
+    //ten kawałek kodu się nie wykona
+}
+
+if (myVar <= 10) {
+    //ten kawałek kodu się wykona
+}
+
+if (myVar !== 8) {
+    //ten kawałek kodu się nie wykona
+}

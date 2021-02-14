@@ -29,7 +29,7 @@
 //lub
 //console.log(fruits.substr(0, plus) + fruits.substr(plus +3))
 
-//Zadanie 5 - wyświetlić stringa w formie listy, z myślnikiem
+//Zadanie 5 - wyświetlić stringa w formie listy, z myślnikiem,bez przecinków
 
 let fruits= "  jabłka , mango, +++gruszka, śliwka  " 
 let lista="Lista zakupów: \n"
